@@ -60,7 +60,8 @@ $response = $reddit->addComment($redditAlert->reddit->name,'                    
            ######                         ######
               ###############################
     
-');
+    
+Happy Cakeday!');
 var_dump($response);
 
 exit;
